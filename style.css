@@ -35,3 +35,11 @@ h3{
     box-shadow: 2px 2px 2px #999;
     background-color: #ff0042;
 }
+
+#rectangle {
+  height: 10px;
+  margin-top: 10px;
+  width: 100px;
+  background-color: yellow;
+  border: 2px solid black;
+}
